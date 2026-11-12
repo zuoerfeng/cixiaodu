@@ -1,0 +1,12 @@
+{
+  "source": "https://api.arasaac.org/v1/pictograms/all/en",
+  "pictogram_records": 13827,
+  "excluded_flagged_records": 170,
+  "unique_keywords_after_filter": 15649,
+  "highschool_words": 3677,
+  "matched_words": 2208,
+  "unmatched_words": 1469,
+  "coverage_percent": 60.05,
+  "matching": "Case-insensitive full keyword equality; no stemming, substring or tag matching.",
+  "review_status": "Metadata matches only; images and word senses have not been manually reviewed."
+}

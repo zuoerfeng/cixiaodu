@@ -1,0 +1,20 @@
+{
+  "books": [
+    "pep2019-compulsory-1",
+    "pep2019-compulsory-2",
+    "pep2019-compulsory-3",
+    "pep2019-optional-1",
+    "pep2019-optional-2",
+    "pep2019-optional-3",
+    "pep2019-optional-4"
+  ],
+  "audio_files": 108,
+  "audio_unchanged": true,
+  "images_unchanged": true,
+  "main_files": 13847,
+  "main_bytes": 421230143,
+  "audio_bytes": 823599375,
+  "under_1GB_each": true,
+  "main_url": "https://zuoerfeng.github.io/cixiaodu/",
+  "audio_url": "https://zuoerfeng.github.io/cixiaodu-audio/"
+}

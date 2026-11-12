@@ -1,0 +1,6 @@
+.pictogram-figure{width:430px;max-width:100%}
+.word-figure.pictogram-figure img{object-fit:contain;aspect-ratio:16/10;padding:18px;background:#fff;border:1px solid #efefef}
+.pictogram-controls{display:flex;align-items:center;flex-wrap:wrap;gap:14px;margin-top:8px}
+.pictogram-controls>button:first-child:not(.image-add){font-size:12px;padding:5px 9px}
+.pictogram-controls .image-add{margin-top:0}
+.reply:has(>.word-head)>.actions{display:none}
